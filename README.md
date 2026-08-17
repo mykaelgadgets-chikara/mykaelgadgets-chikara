@@ -6,13 +6,28 @@
 
 ### Practical AI for the work that keeps a business moving.
 
-I’m building **Chikara** — an AI-assisted operating system for Mykael Gadgets.
+I’m building **Chikara** — an AI-assisted operating system shaped by the daily
+work of Mykael Gadgets.
 
-Chikara is my attempt to answer a practical question: **what happens when the
-daily work of a real business becomes the product roadmap?** Inventory,
-customer conversations, sales, finance, follow-up, and oversight become one
-coordinated system—without hiding important decisions from the humans
-responsible for them.
+Most business software begins with a feature list. Chikara began with the work
+itself: the decisions, handoffs, follow-ups, and small operational gaps that
+decide whether a day runs smoothly.
+
+The question behind the build is simple: **what happens when a real business
+becomes the product roadmap?** Inventory, customer conversations, sales,
+finance, follow-up, and oversight become one coordinated system—without hiding
+important decisions from the humans responsible for them.
+
+## Why Chikara exists
+
+Growing operations rarely fail because people do not care. They become fragile
+when context lives in too many places, routine work depends on memory, and the
+right person learns about a problem too late.
+
+Chikara is being built to close those gaps: carry context forward, make the
+next action clearer, and help good decisions happen consistently. The aim is
+not automation for its own sake. It is a calmer, more dependable way to run
+the business.
 
 ## The system I’m building
 
@@ -24,6 +39,17 @@ responsible for them.
 | **Finance** | Pricing and margin intelligence support decisions without silently making them. |
 | **Customer care** | Follow-up becomes timely, useful, and grounded in known context. |
 | **Governance** | Confirmations, audit trails, tests, and rollback paths earn trust over time. |
+
+## The current chapter: trust before autonomy
+
+Chikara already has useful working parts. The work now is to make the whole
+system easier to trust—not by adding autonomy quickly, but by earning it.
+
+Right now I’m focused on three things:
+
+1. **Reliability:** turning real failures into permanent regression coverage.
+2. **Clarity:** making ownership, authority, and system state easy to understand.
+3. **Restraint:** ensuring consequential actions stay confirmed, auditable, and reversible.
 
 ## How I build
 
@@ -41,6 +67,17 @@ The principles are straightforward:
 - **Private business and customer data stays private.**
 - **Daily work compounds** into a better product.
 
+## What I’m learning in public
+
+- How to design AI agents around real responsibilities instead of impressive demos
+- Where probabilistic intelligence should end and deterministic controls should begin
+- How operational evidence, not confidence, creates permission for greater autonomy
+- How a product can grow directly from the rhythm of running the business it serves
+
+The long game is for Chikara to become a quiet operating layer: present when
+it is useful, cautious when the facts are incomplete, and accountable whenever
+its work matters.
+
 ## Daily Chikara build log
 
 Short, public notes from the work—focused on the lesson and the product
@@ -49,8 +86,14 @@ improvement, never on private operational data.
 <!-- CHIKARA_BUILD_LOG_START -->
 ### August 14, 2026
 
-Launched this public build journal: a simple window into the daily work of
+**Built:** Launched this public build journal—a window into the daily work of
 turning Chikara into a dependable operating system.
+
+**Learned:** The most useful story is not a list of features. It is the record
+of what the work taught us and how the system became better because of it.
+
+**Next:** Establish a privacy-gated publishing loop so normal Chikara work can
+become safe, useful public progress without creating a second content job.
 <!-- CHIKARA_BUILD_LOG_END -->
 
 ---
