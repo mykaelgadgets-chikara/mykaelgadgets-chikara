@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### August 17, 2026
+
+**Built:** Strengthened Chikara’s safety controls and human approval boundaries.
+
+**Learned:** Trust grows when safeguards are part of the product, not an afterthought.
+
+**Next:** Keep tightening the path from useful assistance to accountable action.
+
 ### August 14, 2026
 
 **Built:** Launched this public build journal—a window into the daily work of
