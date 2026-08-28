@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### August 27, 2026
+
+**Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved workflow reliability and expanded repeatable verification. Improved how work is coordinated, routed, and handed between responsibilities. Connected several improvements across Chikara’s operating layers.
+
+**Learned:** Trust grows when safeguards are part of the product, not an afterthought.
+
+**Next:** Keep tightening the path from useful assistance to accountable action.
+
 ### August 26, 2026
 
 **Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved workflow reliability and expanded repeatable verification. Strengthened the operational workflows that keep everyday work moving. Connected several improvements across Chikara’s operating layers.
@@ -131,14 +139,6 @@ improvement, never on private operational data.
 **Learned:** Steady iteration compounds when every change leaves the system easier to trust.
 
 **Next:** Keep turning daily work into the next evidence-backed product improvement.
-
-### August 17, 2026
-
-**Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved workflow reliability and expanded repeatable verification. Strengthened the operational workflows that keep everyday work moving. Connected several improvements across Chikara’s operating layers.
-
-**Learned:** Trust grows when safeguards are part of the product, not an afterthought.
-
-**Next:** Keep tightening the path from useful assistance to accountable action.
 <!-- CHIKARA_BUILD_LOG_END -->
 
 ---
