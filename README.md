@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### August 26, 2026
+
+**Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved workflow reliability and expanded repeatable verification. Strengthened the operational workflows that keep everyday work moving. Connected several improvements across Chikara’s operating layers.
+
+**Learned:** Trust grows when safeguards are part of the product, not an afterthought.
+
+**Next:** Keep tightening the path from useful assistance to accountable action.
+
 ### August 24, 2026
 
 **Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved workflow reliability and expanded repeatable verification. Strengthened the operational workflows that keep everyday work moving. Connected several improvements across Chikara’s operating layers.
@@ -131,17 +139,6 @@ improvement, never on private operational data.
 **Learned:** Trust grows when safeguards are part of the product, not an afterthought.
 
 **Next:** Keep tightening the path from useful assistance to accountable action.
-
-### August 14, 2026
-
-**Built:** Launched this public build journal—a window into the daily work of
-turning Chikara into a dependable operating system.
-
-**Learned:** The most useful story is not a list of features. It is the record
-of what the work taught us and how the system became better because of it.
-
-**Next:** Establish a privacy-gated publishing loop so normal Chikara work can
-become safe, useful public progress without creating a second content job.
 <!-- CHIKARA_BUILD_LOG_END -->
 
 ---
