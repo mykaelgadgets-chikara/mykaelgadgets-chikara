@@ -86,11 +86,11 @@ improvement, never on private operational data.
 <!-- CHIKARA_BUILD_LOG_START -->
 ### August 31, 2026
 
-**Built:** Strengthened the operational workflows that keep everyday work moving. Made Chikara’s system state, evidence, and operating boundaries clearer.
+**Built:** Improved workflow reliability and expanded repeatable verification. Strengthened the operational workflows that keep everyday work moving. Improved decision support across pricing, margins, and financial operations. Connected several improvements across Chikara’s operating layers.
 
-**Learned:** Operational reliability is built in the small transitions where context is usually lost.
+**Learned:** A repaired failure becomes valuable when it is preserved as a repeatable check.
 
-**Next:** Continue removing avoidable gaps from the daily operating rhythm.
+**Next:** Carry the next real-world lesson into permanent regression coverage.
 
 ### August 30, 2026
 
