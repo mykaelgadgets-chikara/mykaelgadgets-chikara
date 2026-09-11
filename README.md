@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### September 11, 2026
+
+**Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved workflow reliability and expanded repeatable verification. Improved how work is coordinated, routed, and handed between responsibilities. Connected several improvements across Chikara’s operating layers.
+
+**Learned:** Trust grows when safeguards are part of the product, not an afterthought.
+
+**Next:** Keep tightening the path from useful assistance to accountable action.
+
 ### September 9, 2026
 
 **Built:** Made Chikara’s system state, evidence, and operating boundaries clearer.
@@ -131,14 +139,6 @@ improvement, never on private operational data.
 **Learned:** A repaired failure becomes valuable when it is preserved as a repeatable check.
 
 **Next:** Carry the next real-world lesson into permanent regression coverage.
-
-### September 3, 2026
-
-**Built:** Made Chikara’s system state, evidence, and operating boundaries clearer.
-
-**Learned:** Clear system state is operational infrastructure, not administrative overhead.
-
-**Next:** Keep the documented system and the working system aligned.
 <!-- CHIKARA_BUILD_LOG_END -->
 
 ---
