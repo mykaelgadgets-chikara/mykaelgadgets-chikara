@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### September 25, 2026
+
+**Built:** Improved decision support across pricing, margins, and financial operations.
+
+**Learned:** Financial intelligence is most useful when it informs decisions without silently making them.
+
+**Next:** Keep strengthening evidence, approval, and readback around financial decisions.
+
 ### September 23, 2026
 
 **Built:** Made Chikara’s system state, evidence, and operating boundaries clearer.
@@ -127,14 +135,6 @@ improvement, never on private operational data.
 ### September 13, 2026
 
 **Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved workflow reliability and expanded repeatable verification. Strengthened the operational workflows that keep everyday work moving. Connected several improvements across Chikara’s operating layers.
-
-**Learned:** Trust grows when safeguards are part of the product, not an afterthought.
-
-**Next:** Keep tightening the path from useful assistance to accountable action.
-
-### September 12, 2026
-
-**Built:** Strengthened Chikara’s safety controls and human approval boundaries. Improved how work is coordinated, routed, and handed between responsibilities. Strengthened the operational workflows that keep everyday work moving. Connected several improvements across Chikara’s operating layers.
 
 **Learned:** Trust grows when safeguards are part of the product, not an afterthought.
 
