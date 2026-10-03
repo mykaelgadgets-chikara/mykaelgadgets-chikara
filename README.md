@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### October 3, 2026
+
+**Built:** Improved workflow reliability and expanded repeatable verification. Strengthened the operational workflows that keep everyday work moving. Improved the connection between customer-facing work and operational truth. Connected several improvements across Chikara’s operating layers.
+
+**Learned:** A repaired failure becomes valuable when it is preserved as a repeatable check.
+
+**Next:** Carry the next real-world lesson into permanent regression coverage.
+
 ### October 2, 2026
 
 **Built:** Improved the connection between customer-facing work and operational truth.
@@ -131,14 +139,6 @@ improvement, never on private operational data.
 **Learned:** Financial intelligence is most useful when it informs decisions without silently making them.
 
 **Next:** Keep strengthening evidence, approval, and readback around financial decisions.
-
-### September 23, 2026
-
-**Built:** Made Chikara’s system state, evidence, and operating boundaries clearer.
-
-**Learned:** Clear system state is operational infrastructure, not administrative overhead.
-
-**Next:** Keep the documented system and the working system aligned.
 <!-- CHIKARA_BUILD_LOG_END -->
 
 ---
