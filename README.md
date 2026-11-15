@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### November 14, 2026
+
+**Built:** Improved how work is coordinated, routed, and handed between responsibilities.
+
+**Learned:** Good coordination depends on clear ownership and context, not more messages.
+
+**Next:** Make the next handoff easier to understand and harder to lose.
+
 ### November 12, 2026
 
 **Built:** Continued improving Chikara as a practical operating system for real business work.
@@ -131,14 +139,6 @@ improvement, never on private operational data.
 **Learned:** A repaired failure becomes valuable when it is preserved as a repeatable check.
 
 **Next:** Carry the next real-world lesson into permanent regression coverage.
-
-### November 2, 2026
-
-**Built:** Continued improving Chikara as a practical operating system for real business work.
-
-**Learned:** Steady iteration compounds when every change leaves the system easier to trust.
-
-**Next:** Keep turning daily work into the next evidence-backed product improvement.
 <!-- CHIKARA_BUILD_LOG_END -->
 
 ---
