@@ -84,6 +84,14 @@ Short, public notes from the work—focused on the lesson and the product
 improvement, never on private operational data.
 
 <!-- CHIKARA_BUILD_LOG_START -->
+### November 15, 2026
+
+**Built:** Improved workflow reliability and expanded repeatable verification. Improved decision support across pricing, margins, and financial operations. Made Chikara’s system state, evidence, and operating boundaries clearer.
+
+**Learned:** A repaired failure becomes valuable when it is preserved as a repeatable check.
+
+**Next:** Carry the next real-world lesson into permanent regression coverage.
+
 ### November 14, 2026
 
 **Built:** Improved how work is coordinated, routed, and handed between responsibilities.
@@ -125,14 +133,6 @@ improvement, never on private operational data.
 **Next:** Carry the next real-world lesson into permanent regression coverage.
 
 ### November 4, 2026
-
-**Built:** Improved workflow reliability and expanded repeatable verification. Made Chikara’s system state, evidence, and operating boundaries clearer.
-
-**Learned:** A repaired failure becomes valuable when it is preserved as a repeatable check.
-
-**Next:** Carry the next real-world lesson into permanent regression coverage.
-
-### November 3, 2026
 
 **Built:** Improved workflow reliability and expanded repeatable verification. Made Chikara’s system state, evidence, and operating boundaries clearer.
 
